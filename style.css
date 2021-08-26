@@ -1,3 +1,18 @@
+/* Gives a slight border to current weather container */
 .border{
     border: 1px solid black;
+}
+/* Formats the history section */
+.historyItem{
+    border: solid black 1px;
+    padding:3px;
+    display:flex;
+    justify-content:center;
+    list-style-type: none
+
+}
+/* Changes the background color of history items and cursor type when hovered over*/
+.historyItem:hover{
+    background-color: lightblue;
+    cursor:pointer;
 }
