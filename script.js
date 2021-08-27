@@ -133,7 +133,7 @@ $("#search-button").click(function(event){
   var noSpace = cityInput.replace(/\s/g, '+')
   
   //variable that stores the Open Weather Map API for 5 day forecasts 
-  var queryURL = "http://api.openweathermap.org/data/2.5/forecast?q=" + noSpace + "&units=imperial&appid=62e3185f6eb6074c28be5645cf545d09";
+  var queryURL = "https://api.openweathermap.org/data/2.5/forecast?q=" + noSpace + "&units=imperial&appid=62e3185f6eb6074c28be5645cf545d09";
 
   $.ajax({
     url: queryURL,
