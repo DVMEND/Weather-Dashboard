@@ -27,7 +27,7 @@ API data is stored in local storage for reference.
 Open for pull requests. Raise an issue for major changes. 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](Assets\Weather-Dashboard-Screenshot.png)
 
 ## Contact Me
 Github: https://github.com/DVMEND
