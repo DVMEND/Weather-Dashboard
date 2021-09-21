@@ -2,6 +2,10 @@
 
 Weather Dashboard is an application utilizes the OpenWeather API to search the weather for any city. It displays the current weather, as well as a 5 day forecast. 
 
+## Screenshot
+
+![Weather-Dashboard-Screenshot](Assets\Weather-Dashboard-Screenshot.png)
+
 ## Installation 
 
 No installation required
