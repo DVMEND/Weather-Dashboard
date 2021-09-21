@@ -4,7 +4,7 @@ Weather Dashboard is an application utilizes the OpenWeather API to search the w
 
 ## Screenshot
 
-![Weather-Dashboard-Screenshot](Assets\Weather-Dashboard-Screenshot.png)
+![Weather-Dashboard-Screenshot](.\Assets\Weather-Dashboard-Screenshot.png)
 
 ## Installation 
 
@@ -27,7 +27,7 @@ API data is stored in local storage for reference.
 Open for pull requests. Raise an issue for major changes. 
 
 ## License
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](Assets\Weather-Dashboard-Screenshot.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact Me
 Github: https://github.com/DVMEND
