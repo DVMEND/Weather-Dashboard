@@ -4,7 +4,7 @@ Weather Dashboard is an application utilizes the OpenWeather API to search the w
 
 ## Screenshot
 
-![Weather-Dashboard-Screenshot](Assets\Weather-Dashboard-Screenshot.png?raw=true "Weather-Dashboard-Screenshot")
+![Weather-Dashboard-Screenshot](Assets/Weather-Dashboard-Screenshot.png)
 
 ## Installation 
 
